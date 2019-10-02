@@ -6,7 +6,7 @@ email: davidchizhang@outlook.com
 description: "Personal comments on things worth a closer look in China, prepared by David Marx"
 keyword: "David Marx, China"
 url: "https://david-chi-zhang.github.io"              # your host, for absolute URL
-baseurl: "/DMReview"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/MReview"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
