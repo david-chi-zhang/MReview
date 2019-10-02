@@ -1,10 +1,10 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: DavidMarx Review on What's Happening in China
+SEOTitle: 马野华夏评论 | DMRC
 header-img: img/home-bg.jpg
-email: caojiele1225@126.com
-description: ""
-keyword: ""
+email: davidchizhang@outlook.com
+description: "Personal comments on things worth a closer look in China, prepared by David Marx"
+keyword: "David Marx, China"
 url: "https://caojiele.com"              # your host, for absolute URL
 baseurl: "/Jlcaoblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,9 +12,9 @@ baseurl: "/Jlcaoblog-boilerplate"         # for example, '/blog' if your blog ho
 
 # SNS settings
 RSS: false
-zhihu_username:     wang-le-6-62
-github_username:    caojiele
-#linkedin_username:  Jack-cao-387159129
+zhihu_username:     not yet
+github_username:    david-chi-zhang
+#linkedin_username:  zhangch5.15@sem.tsinghua.edu.cn
 
 
 
@@ -66,7 +66,7 @@ ga_domain: caojiele.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，要出去看看。"
+sidebar-about-description: "Attempt to catch your focus on news in China with a closer look."
 sidebar-avatar: /img/avatar-Jack.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
