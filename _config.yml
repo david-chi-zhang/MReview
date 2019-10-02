@@ -1,5 +1,5 @@
 # Site settings
-title: DavidMarx Review on What's Happening in China
+title: DavidMarx Review
 SEOTitle: 马野华夏评论 | DMRC
 header-img: img/home-bg.jpg
 email: davidchizhang@outlook.com
@@ -80,7 +80,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Jlcao Blog",
+        title: "Jlcao Bl",
         href: "https://caojiele.com"
     },{
         title: "曹",
