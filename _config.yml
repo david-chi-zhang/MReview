@@ -1,5 +1,5 @@
 # Site settings
-title: DavidMarx Review
+title: Marx Review
 SEOTitle: 马野华夏评论 | DMRC
 header-img: img/home-bg.jpg
 email: davidchizhang@outlook.com
@@ -67,7 +67,7 @@ ga_domain: caojiele.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Attempt to catch your focus on news in China with a closer look."
-sidebar-avatar: /img/avatar-Jack.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
