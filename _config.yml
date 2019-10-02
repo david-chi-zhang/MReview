@@ -1,5 +1,5 @@
 # Site settings
-title: Marx Review on China
+title: Marx Review
 SEOTitle: 马野华夏评论 | DMRC
 header-img: img/home-bg.jpg
 email: davidchizhang@outlook.com
@@ -66,7 +66,7 @@ ga_domain: https://david-chi-zhang.github.io/MReview/
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Read for you the unsaid."
+sidebar-about-description: "Personal comments on things worth a closer look in China, prepared by Dr. David Marx."
 sidebar-avatar: https://david-chi-zhang.github.io/MReview/img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
