@@ -12,9 +12,9 @@ baseurl: "/MReview"         # for example, '/blog' if your blog hosted on 'host/
 
 # SNS settings
 RSS: false
-zhihu_username:     not yet
+#zhihu_username:     not yet
 github_username:    david-chi-zhang
-#linkedin_username:  zhangch5.15@sem.tsinghua.edu.cn
+linkedin_username:  zhangch5.15@sem.tsinghua.edu.cn
 
 
 
@@ -48,7 +48,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: Jlcaoblog
+duoshuo_username: 
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -60,14 +60,14 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: caojiele.com
+ga_domain: https://david-chi-zhang.github.io/MReview/
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Attempt to catch your focus on news in China with a closer look."
-sidebar-avatar: img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://david-chi-zhang.github.io/MReview/img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -78,21 +78,21 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "Jlcao Bl",
-        href: "https://caojiele.com"
-    },{
-        title: "曹",
-        href: "https://caojiele.com"
-    },{
-        title: "杰",
-        href: "https://caojiele.com"
-    },{
-        title: "乐",
-        href: "https://caojiele.com"
-    },{
-        title: "曹小宝宝",
-        href: "https://caojiele.com"
-    }
-]
+#friends: [
+#    {
+ #       title: "Jlcao Bl",
+  #      href: "https://caojiele.com"
+   # },{
+    #    title: "曹",
+     #   href: "https://caojiele.com"
+   # },{
+    #    title: "杰",
+     #   href: "https://caojiele.com"
+   # },{
+   #     title: "乐",
+    #    href: "https://caojiele.com"
+    #},{
+    #    title: "曹小宝宝",
+     #   href: "https://caojiele.com"
+    #}
+#]
