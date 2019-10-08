@@ -15,11 +15,11 @@ In the Chinese traditions, turning 70-year-old is a big deal. Even A special Chi
 In my perspective, this serves as the fundamental background of the National Day celebration this year. Trade war is far from the end, the economy is slowing down, and Hong Kong is still a mess. These may as well be the reasons for the largest scale military parade, but for ordinary residents humming the rhythm of Me and My Country ([我和我的祖国](https://v.qq.com/x/cover/mzc0020036349xa/f0032mfvxjg.html)) on the subway, in the offices, or in the restaurants, the recent publicity efforts from the government made them believe that celebrating the birthday of their motherland is celebrating the the payoff of their own hard work. 
 
 # A few keywords
-- [Persons VS People](#h1)
+- [Persons VS People](<h1>)
 - Women Volleyball
 - Tsinghua and Peking students in the parade
 
-# Persons VS People <h1>
+# Persons VS People 
 
 For the CCP, 人民 is a often-mentioned word. Most of the times it is translated into the people. In the Chinese context, 人民 represents a massive number of individuals. It highlights the sense of group. However, this year’s celebration is tuned a bit different when talking about 人民. Individuals, rather than the group, are given more weight. Many intentional designs are aiming at letting each ordinary resident find some pieces of their ordinary lives in the official celebration events. One of the parade team marching through the Tiananmen Square is made up by the scooter-riding delivery men (外卖小哥). Given Beijing government’s attempt to limit the number of e-scooters in the past year, this is true surprise. Another parade team is made up by people riding old-style bicycles, called Two-Eight-Model Bike. In the 1980s, these bikes were the most common means of transportation in cities in China. Both my parents burst into laughter when they saw the bike-riding parade team, telling that they rode these bikes everyday when they were my age.
 
