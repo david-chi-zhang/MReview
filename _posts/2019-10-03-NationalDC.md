@@ -15,9 +15,9 @@ In the Chinese traditions, turning 70-year-old is a big deal. Even A special Chi
 In my perspective, this serves as the fundamental background of the National Day celebration this year. Trade war is far from the end, the economy is slowing down, and Hong Kong is still a mess. These may as well be the reasons for the largest scale military parade, but for ordinary residents humming the rhythm of Me and My Country ([我和我的祖国](https://v.qq.com/x/cover/mzc0020036349xa/f0032mfvxjg.html)) on the subway, in the offices, or in the restaurants, the recent publicity efforts from the government made them believe that celebrating the birthday of their motherland is celebrating the the payoff of their own hard work. 
 
 # A few keywords
-- [Persons VS People](<h1>)
-- Women Volleyball
-- Tsinghua and Peking students in the parade
+- [Persons VS People](#persons-vs-people)
+- Women Volleyball(#women-volleyball)
+- Tsinghua and Peking students in the parade(#tsinghua-and-peking-students-in-the-parade)
 
 # Persons VS People 
 
