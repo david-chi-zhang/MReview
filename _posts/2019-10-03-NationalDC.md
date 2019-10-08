@@ -10,18 +10,18 @@ tags:
     - Parade
 ---
 
-In the Chinese traditions, turning 70-year-old is a big deal. Even A special Chinese word is reserved for those turing 70, 古稀 (Gu Xi, rare in the history). Usually, a family will host a big party for their parents’ 70-year-old birthday. 
+In the Chinese traditions, turning 70-year-old is a big deal. Even A special Chinese word is reserved for those turing 70, 古稀 (Gu Xi, rare in the history). Usually, a family will host a big party for their parents’ 70-year-old birthday.
 
-In my perspective, this serves as the fundamental background of the National Day celebration this year. Trade war is far from the end, the economy is slowing down, and Hong Kong is still a mess. These may as well be the reasons for the largest scale military parade, but for ordinary residents humming the rhythm of Me and My Country ([我和我的祖国](https://v.qq.com/x/cover/mzc0020036349xa/f0032mfvxjg.html)) on the subway, in the offices, or in the restaurants, the recent publicity efforts from the government made them believe that celebrating the birthday of their motherland is celebrating the the payoff of their own hard work. 
+In my perspective, this serves as the fundamental background of the National Day celebration this year. Trade war is far from the end, the economy is slowing down, and Hong Kong is still a mess. These may as well be the reasons for the largest scale military parade, but for ordinary residents humming the rhythm of Me and My Country ([我和我的祖国](https://v.qq.com/x/cover/mzc0020036349xa/f0032mfvxjg.html)) on the subway, in the offices, or in the restaurants, the recent publicity efforts from the government made them believe that celebrating the birthday of their motherland is celebrating the the payoff of their own hard work.
 
 # Three keywords
 - [Persons VS People](#persons-vs-people)
-- [Women Volleyball](#women-volleyball)
+- [Women Volleyball](#women-volleyball-team)
 - [Tsinghua and Peking students in the parade](#tsinghua-and-peking-students-in-the-parade)
 
-# Persons VS People 
+# Persons VS People
 
-For the CCP, 人民 is a often-mentioned word. Most of the times it is translated into *the people*. In the Chinese context, 人民 represents a massive number of people. It highlights the sense of *the group*. However, this year’s celebration is tuned a bit different when talking about 人民. Individuals, rather than the group, are given more weight. Many details of the celebration events are designed to let each ordinary resident find some pieces of their ordinar lives when they watch TV. 
+For the CCP, 人民 is a often-mentioned word. Most of the times it is translated into *the people*. In the Chinese context, 人民 represents a massive number of people. It highlights the sense of *the group*. However, this year’s celebration is tuned a bit different when talking about 人民. Individuals, rather than the group, are given more weight. Many details of the celebration events are designed to let each ordinary resident find some pieces of their ordinar lives when they watch TV.
 
 For example, one of the parade team marching through the Tiananmen Square is made up by the scooter-riding delivery men (外卖小哥). Given Beijing government’s hard effort to limit the number of e-scooters in the past year, this is a true surprise. Another parade team is made up by people riding old-style bicycles, called Two-Eight-Model Bike (二八自行车). In the 1980s, these bikes were the most common means of transportation in cities in China. Both my parents burst into laughter when they saw the bike-riding parade team.
 
@@ -40,7 +40,7 @@ Another reflection is related to the emphasis on Heroes. On Sept 29, the country
 
 The Chinese Women Volleyball Team is a famous for never giving up. Even in recent years it has brought many (good) surprises to the Chinese people. In 2004 Olympics final, it lost the first 2 sets to the Russian team, but in the end won the last 3 sets, getting the gold medal home. In the 2016 Olympics, it lost to strong teams such as Brazil and Netherlands during the groupgame stage, and nobody expected the team to win when they encountered the two team again during the knockout game. However, after lengthy struggles, the young girls brought back the gold medal again.
 
-This year the World Championship of women volleyball was scheduled in late September. Again the girls brought surprises. They brought back the trophy with 11 victories (wining all the games in the round robin). In Chinese, 11 is written as 十一, which is the short version of Oct 1st (十月一日, the date of the National Day). 
+This year the World Championship of women volleyball was scheduled in late September. Again the girls brought surprises. They brought back the trophy with 11 victories (wining all the games in the round robin). In Chinese, 11 is written as 十一, which is the short version of Oct 1st (十月一日, the date of the National Day).
 
 This coincidence is treated as a bless. As the only team that can deliver victories among the three Big Balls (football, basketball, and volleyball), the girls were invited by President Xi personally to attend the dinner reception on the evening of Sept 30, which were meant to be attended by government officials and ambassadors. Xi even met each of them in a conference room before the reception. During the Tiananmen parade on Oct 1st, they were standing on the last festooned vehicle-float, which was the only vehicle-float stayed in from of the Square rather than just passing by.
 
@@ -61,4 +61,4 @@ Students from both universities have something to feel proud of. Peking students
 
 ![pic5](https://david-chi-zhang.github.io/MReview/img/20191003/Pic5.jpg)
 
-Assigning Tsinghua students, rather than their Peking mates,  such a politically important task is no coincidence. Earlier this year, Peking University experienced a severe political turmoil. A group of students transformed the Peking University Marxism Club into a battle field for *Marxian Fundamentalism*. They blame the Reform and Opening Up as surrender to Capitalism, and helped organized a worker-strike in Shenzhen. 
+Assigning Tsinghua students, rather than their Peking mates,  such a politically important task is no coincidence. Earlier this year, Peking University experienced a severe political turmoil. A group of students transformed the Peking University Marxism Club into a battle field for *Marxian Fundamentalism*. They blame the Reform and Opening Up as surrender to Capitalism, and helped organized a worker-strike in Shenzhen.
