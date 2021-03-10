@@ -3,7 +3,7 @@ layout: post
 title: "Debt Levels, Economic Growth, and Development Policies for Efficient Investment"
 date: Mar. 03, 2021
 author: "David Marx"
-header-img: img/20200512.png
+header-img: img/20200228.png
 tags:
     - Investment
     - Global Debt Levels
@@ -60,9 +60,9 @@ The article is in Chinese, but I believe a google translate would keep most of t
 
 上述三组图片展示的是加权数据（aggregated data），可能仅仅是反映了“经济大国”的趋势，而体量较小的经济体的变动趋势可能被掩盖了。为了更精细地讨论上述趋势，可以选用国别层面的数据进行分析。比如，对于一组国家而言（比如G20国家），可以对每个国家计算三个差值
 
-- D1 = 2017-2019债务占GDP比重的平均值 - 2001-2003债务占GDP比重的平均值
-- D2 = 2017-2019 GDP增速平均值 - 2001-2003 GDP增速平均值
-- D3 = 2017-2019投资占GDP比重平均值 - 2001-2003投资占GDP比重平均值
+- D1：  2017-2019债务占GDP比重的平均值 - 2001-2003债务占GDP比重的平均值
+- D2：  2017-2019 GDP增速平均值 - 2001-2003 GDP增速平均值
+- D3：  2017-2019投资占GDP比重平均值 - 2001-2003投资占GDP比重平均值
 
 通过D1与D2、D1与D3的关系，可以粗略讨论债务变动与经济增速变动、债务变动与投资变动的关系。例如，绘制各个国家D1与D2的散点图，如果发现大致呈正相关关系，则债务的上升伴随着经济增速的提高；绘制各个国家D1与D3的散点图，如果发现大致呈正相关关系，则债务的上升伴随着投资的提高。当然，这里讨论的是相关关系，不是因果关系。
 
