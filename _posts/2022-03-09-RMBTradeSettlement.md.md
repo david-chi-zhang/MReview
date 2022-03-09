@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Temporary Alternative Trade Settlement Mechanism: Renmibi under a Multilateralism Approach"
+title: "A Temporary Alternative Trade Settlement Mechanism: Renminbi under a Multilateralism Approach"
 date: March 09, 2022
 author: "David Marx"
 header-img: img/20200228.png
