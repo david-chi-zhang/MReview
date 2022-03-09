@@ -70,7 +70,7 @@ Bilateral governmental cooperation may be helpful. For instance, the central ban
 
 ### Multilateral Inter-Governmental Cooperation as a Temporary Solution
 
-I propose a multilateral approach to temporarily provide Renminbi trade finance to non-Chinese exporters and importers. This approach relies on an existing multilateral mechanism covering Mistery of Finance, central banks, and Export-Import Banks. This multilateral mechanism should also have an existing development financing institution with easy access to the Chinese bond market.
+I propose a multilateral approach to temporarily provide Renminbi trade finance to non-Chinese exporters and importers. This approach relies on an existing multilateral mechanism covering Ministry of Finance, central banks, and Export-Import Banks. This multilateral mechanism should also have an existing development financing institution with easy access to the Chinese bond market.
 
 The solution works as a three-step cycle. First, this Multilateral Development Financing Institution (MDFI) issues RMB bonds in China. Second, it extends an RMB loan to the Export-Import Bank (Eximbank) of the importer's country, which then extends RMB trade finance to domestic importers (or asks domestic financial institutions to do that on its behalf). Third, when receiving the RMB payments from importers, exporters directly or indirectly invest in RMB securities (bonds of the MDFI in particular), completing the cycle. 
 
