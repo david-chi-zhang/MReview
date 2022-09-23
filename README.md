@@ -36,12 +36,29 @@ This is a collection of his academic papers, policy papers and articles. Those n
     - 减少债券市场的隐性担保. [中国债券市场的未来](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E7%9A%84%E6%9C%AA%E6%9D%A5/60032650?fr=aladdin), 第十三章，席睿德、任志清和张龙梅编著，2021，中信出版社
     - Ning Zhu, Ding Ding, Chi Zhang (朱宁，丁鼎，张驰)
     
+- **Chinese Economic Performance and Possible Contributions to Economic Research** （in Chinese）
+    - [中国经济的伟大实践何以产生重要的经济学贡献?——基于经济史与经济思想史的分析与思考](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=TSJJ201801001&uniplatform=NZKPT&v=XY0Wl9SBkn1Q7FXVDwzVM-laO4BEx2mCpR9fVf19F4-js4oKb_tTFlGhETVLzuOb)
+    - 经济学报,2018,5(01):1-16
+    - 李稻葵、李雨纱、张驰（Daokui Li, Yusha Li, Chi Zhang）
+    
+- **Does Mis-invoicing Measure China’s Financial Capital Flows?** (in Chinese)
+    - [进出口伪报能否度量中国的表外金融资本流动?](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=JJKX201601008&uniplatform=NZKPT&v=mUNeSsUy0IXnyL0TvWOUrmiqFK-kMSvy6-rJIjq2FliyN4-2cpc6J1DpRKPuRqnk)
+    - 经济科学,2016(01):76-88.
+    - 李连发、张驰（Lianfa Li, Chi Zhang）    
+ 
+- Production Linkage, Capital Goods Import, and Industrial Upgrading in Developing Countries
+    - PhD Thesis
+    - 工业配套能力、资本品进口与后发国家产业升级（博士论文）
+ 
+- [**Capital Heterogeneity, Entrepreneurship, and Two-way Capital Flows**](https://www.sciencepublishinggroup.com/journal/paperinfo?journalid=172&doi=10.11648/j.ijebo.20190704.12)
+    - International Journal of Economic Behavior and Organization, Volume 7, Issue 4, December 2019, Pages: 64-69 
+    - Guangtao Xia, Chi Zhang, Ke Gao
+    
+- [**The Valuation Effects of a Nation’s External Wealth: Concepts and Measurements**](http://article.journaloffinanceeconomics.com/pdf/jfe-8-6-2.pdf)
+    -  Journal of Finance and Economics. 2020; 8(6):244-249
+    -  Wangyin Hu, Guangtao Xia, Chi Zhang
+
+    
 ### Policy Papers and Articles
 
-##### This is the boilerplate of [Jlcao Blog](https://github.com/caojiele/caojiele.github.io), all documents is over there!
 
-#### [View Boilerplate &rarr;](https://caojiele.com/Jlcaoblog-boilerplate/)
-
-#### [View Live Jlcao Blog &rarr;](https://caojiele.com)
-
-#### If you like JlcaoBlog, Please star [caojiele.github.io repo](https://github.com/caojiele/caojiele.github.io) instead of this! Thank you!
