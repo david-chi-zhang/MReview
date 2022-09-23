@@ -46,7 +46,7 @@ This is a collection of his academic papers, policy papers and articles. Those n
     - 经济科学,2016(01):76-88.
     - 李连发、张驰（Lianfa Li, Chi Zhang）    
  
-- Production Linkage, Capital Goods Import, and Industrial Upgrading in Developing Countries
+- [**Production Linkage, Capital Goods Import, and Industrial Upgrading in Developing Countries**](https://github.com/david-chi-zhang/MReview/blob/d541703a2a2f8f2b6c39b7b9716c4c2b801b4258/_posts/pdf/201909_PhD.pdf)
     - PhD Thesis
     - 工业配套能力、资本品进口与后发国家产业升级（博士论文）
  
