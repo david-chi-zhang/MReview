@@ -3,16 +3,18 @@ layout: post
 title: "List of Publications"
 description: "Presented by Dr. David Marx"
 header-img: "img/about-bg.jpg"
-date: 09/24/2022
+date: Sept. 24, 2022
 ---
 
 # List of Publications
+
+---
 
 - [About the Writer](#about-the-writer)
 - [Disclaimer](#disclaimer)
 - [Discussion Papers and Articles](#discussion-papers-and-articles)
 - [Academic Publications and Book Chapters](#academic-publications-and-book-chapters)
-
+---
    
    
 
