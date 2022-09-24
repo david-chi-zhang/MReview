@@ -3,7 +3,7 @@ layout: post
 title: "List of Publications"
 description: "Presented by Dr. David Marx"
 header-img: "img/about-bg.jpg"
-multilingual: false
+date: 09/24/2022
 ---
 
 # List of Publications
