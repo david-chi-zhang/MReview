@@ -39,43 +39,43 @@ This is a collection of his academic papers, discussion papers and articles. Tho
    
 
 
-- [China’s Local Government Project Bonds: Hidden Debt Behind Project Equity May Impair Financing Sustainability](https://david-chi-zhang.github.io/MReview/2022/06/29/Lanzhou/)
+- [**China’s Local Government Project Bonds: Hidden Debt Behind Project Equity May Impair Financing Sustainability**](https://david-chi-zhang.github.io/MReview/2022/06/29/Lanzhou/)
     -  [专项债项目需要全口径的财务可持续性分析](https://mp.weixin.qq.com/s/34-hAf25ikTMefYvkBq1bA)
 
-- Multilateral Development Financing with Renminbi in a World of Monetary Tapering (in Chinese)
+- **Multilateral Development Financing with Renminbi in a World of Monetary Tapering** (in Chinese)
     -  [以人民币多边开发性融资推动落实全球发展倡议](https://mp.weixin.qq.com/s/SprMGJcDr7BEcgbNdivXAg)
 
-- A Tale of Two Mentalities behind China's Overseas Infrastructure Projects: the Case of Padma Bridge (in Chinese)
+- **A Tale of Two Mentalities behind China's Overseas Infrastructure Projects: the Case of Padma Bridge** (in Chinese)
     - [帕德玛大桥、“带路”争论与基建出海的舆论心态](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323383&idx=1&sn=c4fc184cdec888ea5e22da5d77e0a3ad&chksm=83aef5cab4d97cdc8a72b8db58f4a77326bfd282b320cff4ff26b38a52d81e1bf427a15c4758&token=1435568044&lang=zh_CN#rd)
     
 
-- [Debt Accumulation Behind China’s Urban Infrastructure Investment Rally: The Case of Lanzhou](https://david-chi-zhang.github.io/MReview/2022/06/29/Lanzhou/) 
+- [**Debt Accumulation Behind China’s Urban Infrastructure Investment Rally: The Case of Lanzhou**](https://david-chi-zhang.github.io/MReview/2022/06/29/Lanzhou/) 
     - [兰州的城市基建大跃升及其债务累积](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323372&idx=1&sn=5f7899a0cc4dc4a55696b9f1a5c85f6e&chksm=83aef5d1b4d97cc74e66dd987d4b1e93762916012db5ea979db65339984b2309fb9207cff70e#rd)
 
-- [Platform-Empowered Public-Private Partnership in Infrastructure Investment](https://david-chi-zhang.github.io/MReview/2022/05/16/PEPPP/)
+- [**Platform-Empowered Public-Private Partnership in Infrastructure Investment**](https://david-chi-zhang.github.io/MReview/2022/05/16/PEPPP/)
     - [Public+Private+Platform：第三方基建平台赋能“政府-社会资本合作”](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323344&idx=1&sn=a438804bfc5a09de353d40b4c6fd850a&chksm=83aef5edb4d97cfb214e9433553234bc44245c2dc9a2578845446e22ccbdf315e24099ef19fc&token=1435568044&lang=zh_CN#rd)
 
-- [A Temporary Alternative Trade Settlement Mechanism: Renminbi under a Multilateralism Approach](https://david-chi-zhang.github.io/MReview/2022/03/09/RMBTradeSettlement.md/)
+- [**A Temporary Alternative Trade Settlement Mechanism: Renminbi under a Multilateralism Approach**](https://david-chi-zhang.github.io/MReview/2022/03/09/RMBTradeSettlement.md/)
     - [对俄贸易结算：第三国人民币结算临时机制](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323330&idx=1&sn=968625aff2564630798db6cb26e013a0&chksm=83aef5ffb4d97ce9e95b77bf04599295f238dbff11d892a48027b8f72a0aeee328e4db7a13a0&token=1435568044&lang=zh_CN#rd)
     
-- [Development finance for the American railway system in the 19th century: Debt, Defaults, and the collaboration of visible and invisible hands](https://david-chi-zhang.github.io/MReview/2022/02/19/USRailway19C/)
+- [**Development finance for the American railway system in the 19th century: Debt, Defaults, and the collaboration of visible and invisible hands**](https://david-chi-zhang.github.io/MReview/2022/02/19/USRailway19C/)
     - [看不见与看得见的手：19世纪美国铁路开发的违约潮及其化解](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323323&idx=1&sn=f389a3a1c6bb6d4354ce0439cfe55eef&chksm=83aef586b4d97c90e6796d456d91fc74636054dca23ed228c6c13bbf5bba8145630c9c7b8b45&token=1435568044&lang=zh_CN#rd)
     
-- [Financial Cost of High Speed Rail in China](https://david-chi-zhang.github.io/MReview/2022/01/15/HighSpeedRail/)
+- [**Financial Cost of High Speed Rail in China**](https://david-chi-zhang.github.io/MReview/2022/01/15/HighSpeedRail/)
     - [中国高铁建设的财务成本](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323316&idx=1&sn=be456e86acc9b4cc5a20351fd02e54ee&chksm=83aef589b4d97c9f15da4ac5e98c8f45bc01e64668d6d5a897952f287c9048a9da94d39c02fa&token=1435568044&lang=zh_CN#rd)
     
-- Evaluating China's anti-COVID policy in 2020 and 2021: life-saving vs. growth-saving
+- **Evaluating China's anti-COVID policy in 2020 and 2021: life-saving vs. growth-saving** (in Chinese)
     - [抗疫两年考：从金砖国家看中国抗疫的经济效果(2020-2021)](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323312&idx=1&sn=8ce47b47921b1d7a0d727754f39ca591&chksm=83aef58db4d97c9b78ebc34184a1dc1dc2efbc3bbf63138d68a625982f14adb5e4285b734f74&token=1435568044&lang=zh_CN#rd)
     
-- [Why Cracking down Education Firms in China?](https://david-chi-zhang.github.io/MReview/2021/07/29/Education/)
+- [**Why Cracking down Education Firms in China?**](https://david-chi-zhang.github.io/MReview/2021/07/29/Education/)
 
-- [Debt Levels, Economic Growth, and Development Policies for Efficient Investment](https://david-chi-zhang.github.io/MReview/2021/03/03/DebtInvestmentPolicy/)
+- [**Debt Levels, Economic Growth, and Development Policies for Efficient Investment**](https://david-chi-zhang.github.io/MReview/2021/03/03/DebtInvestmentPolicy/)
     - [债务水平，经济增长与促进有效投资的经济政策](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323295&idx=1&sn=058f401daa4e26f84b0a333528ed962d&chksm=83aef5a2b4d97cb445bb910ee3f75b2a0ab95839edf480afe9aec3c026bca3f0a7d552734f24&token=1435568044&lang=zh_CN#rd)
 
-- RCEP Economies as the Global Manufacturing Center (in Chinese)
+- **RCEP Economies as the Global Manufacturing Center** (in Chinese)
     - [RCEP：全球制造业中心再起航](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323279&idx=1&sn=8903c8ede23126cd029debbe5bc0f1f3&chksm=83aef5b2b4d97ca44ad6a7cb65217dfe0d0021fecda9763bbe2c6a00dac20aeecfdd00a643d2&token=1435568044&lang=zh_CN#rd)
     
-- How to incentivize re-shoring: a summary of historical cases (in Chinese)
+- **How to incentivize re-shoring: a summary of historical cases** (in Chinese)
     - [产业链协调与制造业回流](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323270&idx=1&sn=c28846665aea08c213b1bb5e618ed00d&chksm=83aef5bbb4d97cad8c8f6a35689fe18f98fb507019f5a2da9ba77f74c0ee080cefd82f88a4b2&token=1435568044&lang=zh_CN#rd)
 
    
