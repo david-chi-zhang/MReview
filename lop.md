@@ -1,3 +1,11 @@
+---
+layout: post
+title: "About"
+description: "Presented by Dr. David Marx"
+header-img: "img/about-bg.jpg"
+multilingual: false
+---
+
 # List of Publications
 
 - [About the Writer](#about-the-writer)
