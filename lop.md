@@ -69,7 +69,7 @@ This is a collection of his academic papers, discussion papers and articles. Tho
     
 - [**Why Cracking down Education Firms in China?**](https://david-chi-zhang.github.io/MReview/2021/07/29/Education/)
 
-- [**Debt Levels, Economic Growth, and Development Policies for Efficient Investment**](https://david-chi-zhang.github.io/MReview/2021/03/03/DebtInvestmentPolicy/)
+- **Debt Levels, Economic Growth, and Development Policies for Efficient Investment** (in Chinese)
     - [债务水平，经济增长与促进有效投资的经济政策](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323295&idx=1&sn=058f401daa4e26f84b0a333528ed962d&chksm=83aef5a2b4d97cb445bb910ee3f75b2a0ab95839edf480afe9aec3c026bca3f0a7d552734f24&token=1435568044&lang=zh_CN#rd)
 
 - **RCEP Economies as the Global Manufacturing Center** (in Chinese)
