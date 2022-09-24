@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About"
+title: "List of Publications"
 description: "Presented by Dr. David Marx"
 header-img: "img/about-bg.jpg"
 multilingual: false
