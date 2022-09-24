@@ -3,7 +3,7 @@ title: Marx Review
 SEOTitle: 马野华夏评论 | DMRC
 header-img: img/home-bg.jpg
 email: davidchizhang@outlook.com
-description: "Personal comments on things worth a closer look in China, prepared by David Marx"
+description: "Working papers, policy papers, and articles prepared by David Marx. For Chinese version, Please visit WeChat Public Account 马野说"
 keyword: "David Marx, China"
 url: "https://david-chi-zhang.github.io"              # your host, for absolute URL
 baseurl: "/MReview"         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -14,7 +14,7 @@ baseurl: "/MReview"         # for example, '/blog' if your blog hosted on 'host/
 RSS: false
 #zhihu_username:     not yet
 github_username:    david-chi-zhang
-linkedin_username:  zhangch5.15@sem.tsinghua.edu.cn
+linkedin_username:  davidchizhang@126.com
 
 
 
