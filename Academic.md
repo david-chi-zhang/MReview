@@ -42,7 +42,7 @@ This is a collection of his academic papers, discussion papers and articles. Tho
     
 
 - [Debt Accumulation Behind China’s Urban Infrastructure Investment Rally: The Case of Lanzhou](https://david-chi-zhang.github.io/MReview/2022/06/29/Lanzhou/) 
-    - Chinese version: [兰州的城市基建大跃升及其债务累积](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323372&idx=1&sn=5f7899a0cc4dc4a55696b9f1a5c85f6e&chksm=83aef5d1b4d97cc74e66dd987d4b1e93762916012db5ea979db65339984b2309fb9207cff70e#rd)
+    - [兰州的城市基建大跃升及其债务累积](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323372&idx=1&sn=5f7899a0cc4dc4a55696b9f1a5c85f6e&chksm=83aef5d1b4d97cc74e66dd987d4b1e93762916012db5ea979db65339984b2309fb9207cff70e#rd)
 
 - [Platform-Empowered Public-Private Partnership in Infrastructure Investment](https://david-chi-zhang.github.io/MReview/2022/05/16/PEPPP/)
     - [Public+Private+Platform：第三方基建平台赋能“政府-社会资本合作”](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323344&idx=1&sn=a438804bfc5a09de353d40b4c6fd850a&chksm=83aef5edb4d97cfb214e9433553234bc44245c2dc9a2578845446e22ccbdf315e24099ef19fc&token=1435568044&lang=zh_CN#rd)
