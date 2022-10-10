@@ -40,7 +40,8 @@ This is a collection of his academic papers, discussion papers and articles. Tho
 
 ## Discussion Papers and Articles
    
-
+- [Development Financing via Emerging Market Currencies in A High-Interest US Dollar Environment](https://david-chi-zhang.github.io/MReview/2022/10/10/DFIEMC/)
+    - [探索高息美元环境下的新兴开发性金融筹资货币](https://mp.weixin.qq.com/s/d0z1RfEwTurW6dYSfmWEVA)
 
 - [**China’s Local Government Project Bonds: Hidden Debt Behind Project Equity May Impair Financing Sustainability**](https://david-chi-zhang.github.io/MReview/2022/06/29/Lanzhou/)
     -  [专项债项目需要全口径的财务可持续性分析](https://mp.weixin.qq.com/s/34-hAf25ikTMefYvkBq1bA)
