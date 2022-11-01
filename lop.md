@@ -39,7 +39,8 @@ This is a collection of his academic papers, discussion papers and articles. Tho
 
 
 ## Discussion Papers and Articles
-   
+- [**A Glimpse at China’s Development Strategies from 2023 to 2027**: Economic Implications of the 20th CPC National Congress"](https://david-chi-zhang.github.io/MReview/2022/11/01/ChinaDevelopmentStrategy/)
+
 - [**Development Financing via Emerging Market Currencies in A High-Interest US Dollar Environment**](https://david-chi-zhang.github.io/MReview/2022/10/10/DFIEMC/)
     - [探索高息美元环境下的新兴开发性金融筹资货币](https://mp.weixin.qq.com/s/d0z1RfEwTurW6dYSfmWEVA)
 
