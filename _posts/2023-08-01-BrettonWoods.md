@@ -39,7 +39,8 @@ I came across the book [The Battle of Bretton Woods](https://press.princeton.edu
 
 
 
-![](https://david-chi-zhang.github.io/MReview/img/20230801/P1.PNG)  
+![](https://david-chi-zhang.github.io/MReview/img/20230801/P1.png)  
+
 
 Steil, Benn. 2014. The Battle of Bretton Woods. Princeton University Press. 
 
@@ -127,7 +128,7 @@ Mission Accomplished!
 
 **The location of the IMF and IBRD headquarters was hotly debated.** The UK clearly wanted to locate both institutions in London, or at least adopt a two-headquarters arrangement in London and New York. The US would not yield and worked with other nations to ensure that both agencies were headquartered in the United States. **Interestingly, the Bretton Woods agreement did not explicitly mention which US city would hold the headquarters.** The British side presumed that it must be New York. However, on the eve of the IMF's first executive board meeting in 1946, Keynes was told that both institutions would be housed in Washington, away from the maneuvers of New York bankers, but only 1.1 kilometers away from the U.S. Treasury. The British side raised objections, but they managed to settle the issue by cooperating with other major shareholders. 
 
-![](https://david-chi-zhang.github.io/MReview/img/20230801/P21.PNG)  
+![](https://david-chi-zhang.github.io/MReview/img/20230801/P21.png)  
 
 **Today, it is customary for the President of the World Bank to be an American and the Managing Director of the IMF**** ****to be a European.**  This was not of out the mercy of the US, but a political scandal of White. According to Steil, the heads of both agencies should have been Americans. For the IMF, the Truman administration had already decided to nominate White as its first managing director, for he was acknowledged as the founder of the Bretton Woods system. However, President Truman was informed by security agencies, upon White’s nomination, that he might have been involved in spying activities for the USSR. Continuing the nomination was definitely impossible, but replacing White with another US citizen was sure to lead to questions on what happened to White, revealing his potential spy involvement, which would be used as a political weapon for Truman’s competitors. The President, therefore, ceded the IMF Managing Director to the Europeans without offering reasons.[^14]
 
