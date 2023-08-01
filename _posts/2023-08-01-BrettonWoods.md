@@ -167,7 +167,7 @@ Personally, it is astonishing that, as the sole superpower at the end of WW II, 
 
 [^4]: See Chapter 6 The Best Laid Plans of White and Keynes, BBW.  [↑](#footnote-ref-4)
 
-[5^]: “Central to this idea would be to boost the authority of governments over the rootless, selfish financiers who, partly through their hold over the national central banks, wreaked havoc in the currency markets, disrupted trade, and sowed political conflict.” See Chapter 6 The Best-Laid Plans of White and Keynes, BBW. [↑](#footnote-ref-5)
+[^5]: “Central to this idea would be to boost the authority of governments over the rootless, selfish financiers who, partly through their hold over the national central banks, wreaked havoc in the currency markets, disrupted trade, and sowed political conflict.” See Chapter 6 The Best-Laid Plans of White and Keynes, BBW. [↑](#footnote-ref-5)
 
 [^6]: See Chapter 6 The Best-Laid Plans of White and Keynes, BBW.  [↑](#footnote-ref-6)
 
