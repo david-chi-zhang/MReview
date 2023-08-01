@@ -39,6 +39,9 @@ This is a collection of his academic papers, discussion papers and articles. Tho
 
 
 ## Discussion Papers and Articles
+- [**The Plots behind Bretton Woods**](https://david-chi-zhang.github.io/MReview/2023/08/01/BrettonWoods/)
+   - [布雷顿森林之谋](https://www.yuque.com/marxreview/chwgkd/hnsoqzg2xxpg23gw)   
+
 - [**A Glimpse at China’s Development Strategies from 2023 to 2027**: Economic Implications of the 20th CPC National Congress](https://david-chi-zhang.github.io/MReview/2022/11/01/ChinaDevelopmentStrategy/)
 
 - [**Development Financing via Emerging Market Currencies in A High-Interest US Dollar Environment**](https://david-chi-zhang.github.io/MReview/2022/10/10/DFIEMC/)
