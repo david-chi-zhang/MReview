@@ -1,4 +1,4 @@
-![image](https://github.com/david-chi-zhang/MReview/assets/55972990/478e5099-c383-438c-a268-80dd96a7c840)---
+---
 layout: post
 title: "The Plots behind Bretton Woods"
 date: August 01, 2023
