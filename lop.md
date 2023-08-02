@@ -89,7 +89,17 @@ This is a collection of his academic papers, discussion papers and articles. Tho
    
 
 ## Academic Publications and Book Chapters
-   
+- Bank Management, 8th Edition, authored by by Koch and MacDonald, translated by XIN Xing, CAO Guangyu, and ZHANG Chi （in Chinese）
+   - [《银行管理：第8版》，科克、麦克唐纳著，辛星、曹光宇、张驰译，北京大学出版社，2023](https://www.pup.cn/bookDetail?name=%25E9%2593%25B6%25E8%25A1%258C%25E7%25AE%25A1%25E7%2590%2586%28%25E7%25AC%25AC8%25E7%2589%2588%29&id=a471b421aee94c158d4c06160f962e0d&0.28668126931973936)
+
+
+- [**Sustainabble Development: Asia and the World Annual Report 2023--Puiblic Private Joint Actions in Financing Asia's Development**, Boao Forum for Asia Annual Report](https://english.boaoforum.org/newsDetial.html?navId=6&itemId=2&permissionId=555&detialId=19014)
+   - Chapter 1 Overview of Development Finance in Asia (Section 1.1-1.3)
+   - Chapter 2 Players in Development Finance in Asia: Multilateral Development Banks
+   - LIU Hanyong, XU Bing, ZHANG Chi, LIN Yanjun, and Shreyans Bhaskar
+   - [可持续发展的亚洲与世界2023年度报告——亚洲发展融资：政府社会共行动 （博鳌亚洲论旗舰报告）](https://www.boaoforum.org/newsdetial.html?itemId=2&navID=6&itemChildId=undefined&detialId=19012&pdfPid=555)
+      - 第一章 亚洲发展融资概况（第1.1-1.3节）
+      - 第二章 亚洲发展融资参与方：多边开发银行
 
 - **New Responsibilities and Challenges of China's Financial Industry under New Development Landscape** (in Chinese)
     - Chapter 1 in Responsibilities of the Financial Industry in a Large-scale Economy 
