@@ -42,6 +42,7 @@ This is a collection of his academic papers, discussion papers and articles. Tho
 -[**Capital Account Opening is Not a Prerequisite for Enhancing RMB’s Role as an International Currency, at Least for Now**](https://david-chi-zhang.github.io/MReview/2023/11/02/TradeRMBIntl/)
    - [推进人民币国际化一定需要开放资本账户么？](https://mp.weixin.qq.com/s/X1Y1kx4EezUya66hr0VWIg)
 
+
 - [**The Plots behind Bretton Woods**](https://david-chi-zhang.github.io/MReview/2023/08/01/BrettonWoods/)
    - [布雷顿森林之谋](https://www.yuque.com/marxreview/chwgkd/hnsoqzg2xxpg23gw)   
 
