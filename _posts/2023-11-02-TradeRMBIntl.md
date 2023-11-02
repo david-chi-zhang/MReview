@@ -20,7 +20,7 @@ tags:
 
 *Note: This is an original piece by David Marx. Please cite according to Creative Commons 4.0 when sharing*
 
-*Click here to download the [PDF version](https://github.com/david-chi-zhang/MReview/raw/master/_posts/pdf/202311_TradeRMBIntl.pdf)*
+*Click here to download the [PDF version](https://github.com/david-chi-zhang/MReview/raw/master/_posts/pdf/202308_TradeRMBIntl.pdf)*
 
 ***
 
