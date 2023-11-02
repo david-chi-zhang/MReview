@@ -46,7 +46,7 @@ On the other hand, while China runs a trade surplus with the world as a whole, i
 
 The settlement of trade in RMB necessarily requires the corresponding RMB cross-border clearing mechanism. Eichengreen et al (2022) pointed out that, over the past decade, China has established corresponding offshore and onshore RMB clearing mechanisms. 
 
-The offshore mechanism is the system of overseas RMB clearing banks. According to the People’s Bank of China (PBoC)’s "RMB Internationalization Report 2023" (PBoC, 2023 [^3]), as of September 2023, the 31 RMB offshore clearing banks have been authorized in 29 countries and regions, with the number of participating banks and institutions reaching 970. 
+The offshore mechanism is the system of overseas RMB clearing banks. According to the People’s Bank of China (PBoC)’s "RMB Internationalization Report 2023" (PBoC, 2023 [^3] ), as of September 2023, the 31 RMB offshore clearing banks have been authorized in 29 countries and regions, with the number of participating banks and institutions reaching 970. 
 
 Onshore settlement mechanism refers to the RMB Cross-Border Payment System (CIPS), a clearing system similar to US CHIPS system, able to provide participants with cross-border RMB clearing services. According to the PBoC (2023), as of the end-2022, a total of 1,360 institutions had access to the CIPS. 
 
@@ -108,12 +108,20 @@ On the other, multilateral development banks could try to establish RMB credit l
 **References**
 
 [^1]: Is Capital Account Convertibility Required for the Renminbi to Acquire Reserve Currency Status?, https://www.banque-france.fr/en/publications-and-statistics/publications/capital-account-convertibility-required-renminbi-acquire#:~:text=It is widely assumed that the renminbi (RMB),currency in the absence of capital account convertibility
+
 [^2]: https://data.imf.org/?sk=9d6028d4-f14a-464c-a2f2-59b2cd424b85
-[^3] : Report on the Internationalization of the Renminbi in 2023 (in Chinese), https://www.gov.cn/lianbo/bumen/202310/content_6912504.htm
- [^4] : Yu Yongding: Currency Swap with Argentina There is No Lack of Economic Logic Risk when Fully Assessed (in Chinese), Caixin, https://finance.caixin.com/2023-08-23/102095583.html
-[^5] Circular of the People's Bank of China on Issues Concerning the Use of RMB by Foreign Central Banks, International Financial Organizations, and Sovereign Wealth Funds to Invest in the Inter-bank Market (in Chinese), https://www.chinabond.com.cn/sczy/sczy_flfg/flfg_jdbmgf/jdbmgf_sczrl/jdbmgf_hgjwjg/202307/t20230717_853477997.html
-[&6]: Announcement issued by the people's Bank of China on matters relating to the entry of foreign central bank institutions into the interbank foreign exchange market of the Bank of China (in Chinese), https://www.gov.cn/xinwen/2015-10/01/content_2941871.htm
+
+[^3]: Report on the Internationalization of the Renminbi in 2023 (in Chinese), https://www.gov.cn/lianbo/bumen/202310/content_6912504.htm
+
+[^4]: Yu Yongding: Currency Swap with Argentina There is No Lack of Economic Logic Risk when Fully Assessed (in Chinese), Caixin, https://finance.caixin.com/2023-08-23/102095583.html
+
+[^5]: Circular of the People's Bank of China on Issues Concerning the Use of RMB by Foreign Central Banks, International Financial Organizations, and Sovereign Wealth Funds to Invest in the Inter-bank Market (in Chinese), https://www.chinabond.com.cn/sczy/sczy_flfg/flfg_jdbmgf/jdbmgf_sczrl/jdbmgf_hgjwjg/202307/t20230717_853477997.html
+
+[^6]: Announcement issued by the people's Bank of China on matters relating to the entry of foreign central bank institutions into the interbank foreign exchange market of the Bank of China (in Chinese), https://www.gov.cn/xinwen/2015-10/01/content_2941871.htm
+
 [^7]: Business process for overseas central bank institutions to enter the interbank bond market of China (in Chinese), http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3048164/2016041414374777689.pdf
+
 [^8]: Business process for foreign central bank institutions entering the interbank foreign exchange market of China (in Chinese), http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3048164/2016041414374751755.pdf
+
 [^9]: Q and A on 2015 SDR Review, https://www.imf.org/external/np/exr/faq/sdrfaq.htm#three
 
