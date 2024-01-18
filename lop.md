@@ -39,6 +39,9 @@ This is a collection of his academic papers, discussion papers and articles. Tho
 
 
 ## Discussion Papers and Articles
+- [**Construction Machinery Exports, Developing Economies' Markets, and the Internationalization of RMB**](https://david-chi-zhang.github.io/MReview/2024/01/18/ConstructionMach/)
+   - [工程机械出口、发展中国家市场与人民币国际化](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323542&idx=1&sn=a6290e92297e9d015ed1080bfdfcfa75&chksm=83aefaabb4d973bdaaef2569ee86b2580e3a28301cc29278c547660172aae3268eec9c016bd6&token=914208460&lang=zh_CN&poc_token=HBCiqGWjuC8gra88KunaDLaO6BHD28kLcru_Vs8I)
+ 
 - [**Capital Account Opening is Not a Prerequisite for Enhancing RMB’s Role as an International Currency, at Least for Now**](https://david-chi-zhang.github.io/MReview/2023/11/02/TradeRMBIntl/)
    - [推进人民币国际化一定需要开放资本账户么？](https://mp.weixin.qq.com/s/X1Y1kx4EezUya66hr0VWIg)
 
