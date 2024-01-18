@@ -150,4 +150,4 @@ Footnotes:
 
 Appendix: The 21 HS 6 Digit Items covered by the calculation of Construction Machinery&#x20;
 
-![](image/image_bBnNnhqz05.png)
+![](https://david-chi-zhang.github.io/MReview/img/20240118/image_bBnNnhqz05.png)
