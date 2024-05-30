@@ -88,6 +88,8 @@ This is a collection of his academic papers, discussion papers and articles. Tho
 
 - **RCEP Economies as the Global Manufacturing Center** (in Chinese)
     - [RCEP：全球制造业中心再起航](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323279&idx=1&sn=8903c8ede23126cd029debbe5bc0f1f3&chksm=83aef5b2b4d97ca44ad6a7cb65217dfe0d0021fecda9763bbe2c6a00dac20aeecfdd00a643d2&token=1435568044&lang=zh_CN#rd)
+
+- [**Coordination, Supply-Chains, and Manufacturing Relocation**](https://david-chi-zhang.github.io/MReview/2020/05/12/Coord/)
     
 - **How to incentivize re-shoring: a summary of historical cases** (in Chinese)
     - [产业链协调与制造业回流](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323270&idx=1&sn=c28846665aea08c213b1bb5e618ed00d&chksm=83aef5bbb4d97cad8c8f6a35689fe18f98fb507019f5a2da9ba77f74c0ee080cefd82f88a4b2&token=1435568044&lang=zh_CN#rd)
