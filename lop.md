@@ -39,6 +39,10 @@ This is a collection of his academic papers, discussion papers and articles. Tho
 
 
 ## Discussion Papers and Articles
+
+- [**Intra-BRICS Trade: Production-Orientation, Rise of Capital Goods, and Potential for Further Cooperation**](https://david-chi-zhang.github.io/MReview/2024/05/31/BricsProductionTrade/)
+   - [金砖国家间贸易：生产导向、资本品兴起与产业合作潜力](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323575&idx=1&sn=9b9fade39ffc3dd8a91ee57fa6708446&chksm=83aefa8ab4d9739c9e6d6eac00020e0ed531490505a26d567d28b99945c3baa30c161011e04b&mpshare=1&scene=1&srcid=0531URsID1xI7EWc4JoERa3W&sharer_shareinfo=c97cbe000d8401149a05245f2df28b55&sharer_shareinfo_first=c97cbe000d8401149a05245f2df28b55#rd)
+  
 - [**Construction Machinery Exports, Developing Economies' Markets, and the Internationalization of RMB**](https://david-chi-zhang.github.io/MReview/2024/01/18/ConstructionMach/)
    - [工程机械出口、发展中国家市场与人民币国际化](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323542&idx=1&sn=a6290e92297e9d015ed1080bfdfcfa75&chksm=83aefaabb4d973bdaaef2569ee86b2580e3a28301cc29278c547660172aae3268eec9c016bd6&token=914208460&lang=zh_CN&poc_token=HBCiqGWjuC8gra88KunaDLaO6BHD28kLcru_Vs8I)
  
