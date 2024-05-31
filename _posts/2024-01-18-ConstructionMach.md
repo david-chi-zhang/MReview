@@ -19,6 +19,7 @@ tags:
 
 *Note: This is an original piece by David Marx. Please cite according to Creative Commons 4.0 when sharing*
 
+***
 
 
 # Construction Machinery Exports, Developing Economies' Markets, and the Internationalization of RMB
