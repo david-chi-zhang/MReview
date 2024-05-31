@@ -22,7 +22,7 @@ tags:
 
 Since the first BRICS Leaders' Summit in 2009, trade among the BRICS countries has been flourishing. In 2021, the total goods trade among the five countries exceeded \$500 billion for the first time, more than 2.2 times the level in 2010. By 2020, the trade volume among the BRICS countries accounted for 11.3% of their total global trade, an increase of 1.5 percentage points from 2010 and 6.2 percentage points from 2001.
 
-![](image/image_qW7GabuxMA.png)
+![](https://david-chi-zhang.github.io/MReview/img/20240118/image_qW7GabuxMA.png)
 
 More importantly, with the industrial upgrading of the BRICS countries, the complementarity of industrial cooperation among them has been continuously enhanced. Brazil's agricultural products, iron ore, and copper ore, Russia's oil and natural gas, India's chemicals and pharmaceutical products, China's steel, cement, and machine tools, as well as South Africa's rare metals, cover almost all the intermediate goods and capital goods required for industrial and manufacturing production.&#x20;
 
@@ -60,7 +60,7 @@ From 2001 to 2020, intra-BRICS trade of production goods (including both interme
 
 For comparison, BRICS countries' trade of production goods as a share of BRICS countries' total international trade (the light blue line) has only risen from 74.7% in 2001 to 78.3% in 2020, which has almost stagnated since 2005.
 
-![](image/image_HT_EVJIv_n.png)
+![](https://david-chi-zhang.github.io/MReview/img/20240118/image_HT_EVJIv_n.png)
 
 The above calculations show that, at the beginning of this century, the trade among the BRICS countries did not exhibit a particularly pronounced production-oriented characteristic compared to the BRICS countries' trade with non-BRICS countries. However, by 2020, the trade among the BRICS countries has clearly shown a concentration towards production, with the dark blue line growing above the light line with a rising gap.
 
@@ -70,13 +70,13 @@ The above calculations show that the goods trade among the BRICS countries exhib
 
 In 2020, 12.4% of BRICS countries' production goods trade is conducted with other BRICS countries, compared with only 5.0% in 2001. In other words, this ratio has more than doubled in 20 years.&#x20;
 
-![](image/image_xbMegdJ5Ft.png)
+![](https://david-chi-zhang.github.io/MReview/img/20240118/image_xbMegdJ5Ft.png)
 
 For comparison, only 11.3% of the BRICS countries' total trade in 2020 was conducted with other BRICS countries (up from 5.1% in 2000). This means, compared to the consumer goods sector, the BRICS countries now have a higher degree of trade dependence upon other BRICS countries in the production goods sector.
 
 The above aggregated calculation may be biased since BRICS are different in economic size, per capita income, and industrial structure, and therefore their dependence on production goods from other BRICS countries may also vary. For each BRICS country, how much of their production goods trade is conducted with other BRICS countries? This ratio could be regarded as "BRICS production goods dependency indicator".
 
-![](image/image_yKtrMbFALl.png)
+![](https://david-chi-zhang.github.io/MReview/img/20240118/image_yKtrMbFALl.png)
 
 Calculations show that China has the lowest production of goods dependent on BRICS, with its share of production goods trade conducted with other BRICS countries rising slowly from 4.0% in 2001 to 8.2% in 2020.&#x20;
 
@@ -96,7 +96,7 @@ For the BRIS, in 2020, 29.9% of their capital goods trade is conducted with BRIC
 
 In other words, at the beginning of this century, the BRIS countries had a higher BRICS dependence in terms of intermediate goods trade compared with capital goods, but by 2020, the relationship has been reversed, represented by the upward-crossing of the light blue line against the dark blue line.
 
-![](image/image_ddNfd5E77x.png)
+![](https://david-chi-zhang.github.io/MReview/img/20240118/image_ddNfd5E77x.png)
 
 The rise of intra-BRICS capital goods trade deserves special attention. Aside from consumption goods, trade among emerging economies is traditionally dominated by intermediate goods, because this is what a developing country can produce relatively cheaply building on their natural endowment.&#x20;
 
@@ -115,6 +115,6 @@ China's rising presence in the global capital goods market is ostensibly reflect
 - For Brazil, China accounted for 32.6% of its total capital goods imports in 2020 (up by 30.3% compared with that in 2001), while Russia, India, and South Africa accounted for 0.01%, 0.78%, and 0.04% respectively.
 - For India, China accounted for 33.9% of its total capital goods imports in 2020 (up by 35.7% compared with that in 2001), whereas Brazil, Russia, and South Africa accounted for 0.21%, 0.21%, and 2.06% respectively.
 
-![](image/image_a2H0zzVVkU.png)
+![](https://david-chi-zhang.github.io/MReview/img/20240118/image_a2H0zzVVkU.png)
 
 With the rise of capital goods trade among the BRICS countries, which embeds technology and R\&D capabilities, the BRICS countries can rely solely on each other to cultivate fresh industrial capacities in many fields. In other words, being able to source capital goods from intra-BRICS trade closes the loop for BRICS industrial cooperation. This provides a solid foundation for BRICS cooperation not only in manufacturing and trade but also in monetary and financial areas.&#x20;
