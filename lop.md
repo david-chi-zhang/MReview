@@ -40,6 +40,12 @@ This is a collection of his academic papers, discussion papers and articles. Tho
 
 ## Discussion Papers and Articles
 
+- [**The Mission, Principles, and Focus of Multilateral Development Institutions established by Developing Countries**](https://david-chi-zhang.github.io/MReview/2024/10/17/MDIBDE/)
+   - [发展中国家多边开发机构的战略使命、战略特征与战略重点](https://mp.weixin.qq.com/s/BHBG3rzyf6LBjWsngvGjMA)   
+
+- [**Reflections on the book 'The Marshall Plan**](https://david-chi-zhang.github.io/MReview/2024/09/30/MP/)
+   - [读《马歇尔计划》随感](https://mp.weixin.qq.com/s/TfAgi7ke_M9vSEdiIzPjNQ)
+
 - [**Intra-BRICS Trade: Production-Orientation, Rise of Capital Goods, and Potential for Further Cooperation**](https://david-chi-zhang.github.io/MReview/2024/05/31/BricsProductionTrade/)
    - [金砖国家间贸易：生产导向、资本品兴起与产业合作潜力](https://mp.weixin.qq.com/s?__biz=MzAxMjM1MTQ0Mg==&mid=2649323575&idx=1&sn=9b9fade39ffc3dd8a91ee57fa6708446&chksm=83aefa8ab4d9739c9e6d6eac00020e0ed531490505a26d567d28b99945c3baa30c161011e04b&mpshare=1&scene=1&srcid=0531URsID1xI7EWc4JoERa3W&sharer_shareinfo=c97cbe000d8401149a05245f2df28b55&sharer_shareinfo_first=c97cbe000d8401149a05245f2df28b55#rd)
   
