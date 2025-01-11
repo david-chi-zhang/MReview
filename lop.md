@@ -39,6 +39,8 @@ This is a collection of his academic papers, discussion papers and articles. Tho
 
 
 ## Discussion Papers and Articles
+- [**Historical Overcapacity in the U.S. Steel Industry**](https://david-chi-zhang.github.io/MReview/2025/01/11/USSteel/)
+   - [美国19世纪钢铁工业的产能过剩](https://mp.weixin.qq.com/s/Fby1EWS0PYxvMu4fkxMpuQ)
 
 - [**The Mission, Principles, and Focus of Multilateral Development Institutions established by Developing Countries**](https://david-chi-zhang.github.io/MReview/2024/10/17/MDIBDE/)
    - [发展中国家多边开发机构的战略使命、战略特征与战略重点](https://mp.weixin.qq.com/s/BHBG3rzyf6LBjWsngvGjMA)   
