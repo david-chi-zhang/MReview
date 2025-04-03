@@ -15,7 +15,7 @@ tags:
 
 - Under the White House's ideal assumptions, economies such as China, India, South Africa, Bangladesh, and Indonesia would face higher impacts, with estimated effects ranging from 0.5% to 1% of GDP. 
 
-- For China specifically, if the current tariffs replace those imposed during Trump's first term, the net impact would effectively lay around 15%. Combined with the 20% tariffs imposed in February under the pretext of "fentanyl controls", the new tariffs during Trump's second term so far would be approximately 35%. China retains sufficient economic policy space to safeguard growth. 
+- For China specifically, if the current tariffs replace those imposed during Trump's first term, the net impact would effectively be around 15%. Combined with the 20% tariffs imposed in February under the pretext of "fentanyl controls", the new tariffs during Trump's second term so far would be approximately 35%. China retains sufficient economic policy space to safeguard growth. 
 
 - While the U.S. represents a major market, BRICS nations collectively form another significant market, making this an opportune moment to deepen financial and economic cooperation among themselves.
 
