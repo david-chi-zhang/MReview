@@ -34,7 +34,7 @@ Although India's absolute deficit is larger than Indonesia's (330 million in 202
 
 ![](https://david-chi-zhang.github.io/MReview/img/20250403/F1.png)
 
-***(Note: Based on IMF DOTS for Year 2023; South Africa's deficits against US in 2023 is a one-time exception; no tariff rates were announced for Russia.)*** 
+*(Note: Based on IMF DOTS for Year 2023; South Africa's deficits against US in 2023 is a one-time exception; no tariff rates were announced for Russia.)* 
 
 ## What are the impacts?
 The impact of tariffs depends not only on the tariff rate itself, but also on the extent to which countries trade with the United States and their economic dependence on trade. 
@@ -45,7 +45,7 @@ The second column shows the ratio of exports to the United States to a country's
 
 ![](https://david-chi-zhang.github.io/MReview/img/20250403/F2.png)
 
-According to  the ![USTR explanation](https://www.bing.com/ck/a?!&&p=28b75a8b94b7330cd5b1b674872b70f9abc87d5d636392d7c0404cba7bfdc231JmltdHM9MTc0MzYzODQwMA&ptn=3&ver=2&hsh=4&fclid=07ebcb19-da18-6089-3b89-d94fdb106148&psq=+reciprocal+tariffs+calculationss+ustr&u=a1aHR0cHM6Ly91c3RyLmdvdi9pc3N1ZS1hcmVhcy9yZWNpcHJvY2FsLXRhcmlmZi1jYWxjdWxhdGlvbnM&ntb=1), the impact of tariffs on countries' exports to the United States is represented by the following equation: 
+According to  the [USTR explanation](https://www.bing.com/ck/a?!&&p=28b75a8b94b7330cd5b1b674872b70f9abc87d5d636392d7c0404cba7bfdc231JmltdHM9MTc0MzYzODQwMA&ptn=3&ver=2&hsh=4&fclid=07ebcb19-da18-6089-3b89-d94fdb106148&psq=+reciprocal+tariffs+calculationss+ustr&u=a1aHR0cHM6Ly91c3RyLmdvdi9pc3N1ZS1hcmVhcy9yZWNpcHJvY2FsLXRhcmlmZi1jYWxjdWxhdGlvbnM&ntb=1), the impact of tariffs on countries' exports to the United States is represented by the following equation: 
 
 ![](https://david-chi-zhang.github.io/MReview/img/20250403/F3.png)
 
@@ -62,7 +62,7 @@ This could be an extreme situation. In reality, exchange rates may shift, and im
 
 
 ## Ambiguity on China
-The US has already hiked tariffs on China during the first term of Trump.  Analysis show (e.g., this ![PIIE chart](https://www.piie.com/research/piie-charts/2019/us-china-trade-war-tariffs-date-chart))that those amounts to about an average tariffs about 20%, on about two-thirds of products. During the Biden administration, new tariffs were added ti products such as solar, battery, EV, and others. 
+The US has already hiked tariffs on China during the first term of Trump.  Analysis show (e.g., this [PIIE chart](https://www.piie.com/research/piie-charts/2019/us-china-trade-war-tariffs-date-chart))that those amounts to about an average tariffs about 20%, on about two-thirds of products. During the Biden administration, new tariffs were added ti products such as solar, battery, EV, and others. 
 
 If this round of the "reciprical" rate of 34% acts as a substitute for the above-mentioned rates, then the actual tax rate increase is about 15%-20%. Coupled with the 20% tariff hike in February under the pretext of "fentanyl", the actual tax rate increase so far in Trump's second term is around  35%-40% (rather than 54%). 
 
@@ -78,7 +78,7 @@ The four columns of data in the figure below represent the proportion of each co
 
 ![](https://david-chi-zhang.github.io/MReview/img/20250403/F5.png)
 
-***(Note: green shares in the last three column indicate values higher than the respective ones in the first.)***
+*(Note: green shares in the last three column indicate values higher than the respective ones in the first.)*
 
 The calculation reveals that for countries like Brazil (BRA), Russia (RUS), Saudi Arabia (SAU), and Indonesia (IDN), China has already become a much larger export market than the United States. Even for India (IND) and Ethiopia (ETH), where US act as a major export market, BRICS-11 together are an equally important dedtination. 
 
