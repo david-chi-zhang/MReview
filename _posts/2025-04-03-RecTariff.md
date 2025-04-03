@@ -11,7 +11,6 @@ tags:
 
 ## Summary
 
-Content Summary: 
 - The determination of tariff levels is based on the relative magnitude of trade deficits rather than equivalence in tax rate terms. 
 
 - Under the White House's ideal assumptions, economies such as China, India, South Africa, Bangladesh, and Indonesia would face higher impacts, with estimated effects ranging from 0.5% to 1% of GDP. 
