@@ -23,17 +23,17 @@ date: Sept. 24, 2022
    
 
 
-David Chi Zhang is currently an economist at the [New Development Bank (NDB)](http://www.ndb.int). His research interest covers infrastructure investment in China and other emerging markets, development finance, and BRICS cooperation. Besides thematic research, he is also responsible for the monitoring of global economic dynamics and the macroeconomy of Bangladesh and India, which contributes to the NDB Economic Review (a monthly macroeconomic summary to the NDB Board of Directors) and the occasional briefing notes/talking points to NDB's senior management. 
+David Chi Zhang is currently an economist at a multilateral development bank founded by solely by emerging economies. His research interest covers infrastructure investment in China and other emerging markets, development finance, and BRICS cooperation. Besides thematic research, he is also responsible for the monitoring of global economic dynamics and the macroeconomy of South Africa and Bangladesh. 
 
 David used to serve as a part-time economist at the [IMF China Office](https://www.imf.org/en/Countries/ResRep/CHN), where he conducted research on China's bond market. Before that, he was an assistant research fellow at the Center for China in the World Economy at Tsinghua University, chaired by Professor David Daokui Li (now merged to the Institute for Chinese Economic Practice and Thinking, or [ACCEPT@Tsinghua](http://www.accept.tsinghua.edu.cn/accepten/main.htm)), where he explored how the opening-up policies helped China achieve industrial upgrading, as well as the macroeconomic monitoring of China's foreign capital flows. 
 
-David obtained his Ph.D. in Economics from Tsinghua University (2019), his Bachelor in Economics and Bachelor in Statistics from Peking University (2015). He was also an inaugural class Schwarzman Scholar, where he obtained a Master of Management in Gloal Affairs from Tsinghua University.  
+David obtained his Ph.D. in Economics from Tsinghua University (2019), his Bachelor in Economics and Bachelor in Statistics from Peking University (2015). He was also an inaugural class Schwarzman Scholar, where he obtained a Master of Management in Global Affairs from Tsinghua University.  
    
 
 ## Disclaimer
    
 
-This is a collection of his academic papers, discussion papers and articles. Those not published in academic journals are under the alias of David Marx (or 马野 in Chinese). They are of the authors' view only, not those of the institutions he is associated with. 
+This is a collection of his academic papers, discussion papers and articles. They are of the authors' view only, not those of the institutions he is associated with. 
    
    
 
