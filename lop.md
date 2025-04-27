@@ -43,7 +43,7 @@ This is a collection of his academic papers, discussion papers and articles. The
 Posted by David Marx on**](https://david-chi-zhang.github.io/MReview/2025/04/03/RecTariff/)
    - [美国“国别关税”初探：以金砖国家为例](https://mp.weixin.qq.com/s/gt6xG9qXKkHthIP8DKpPIg)
  
-- **A First Take on China's 2025 Government Wokr Report** (in Chinese)
+- **A First Take on China's 2025 Government Work Report** (in Chinese)
    - [2025年政府工作报告的初读感悟](https://mp.weixin.qq.com/s/aB97vzvzZIXnyANmaGFxhw)
 
 - [**Historical Overcapacity in the U.S. Steel Industry**](https://david-chi-zhang.github.io/MReview/2025/01/11/USSteel/)
