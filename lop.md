@@ -39,8 +39,7 @@ This is a collection of his academic papers, discussion papers and articles. The
 
 
 ## Discussion Papers and Articles
-- [**Impact of the US Reciprocal Tariffs on Emereging Economies: the case of BRICS
-Posted by David Marx on**](https://david-chi-zhang.github.io/MReview/2025/04/03/RecTariff/)
+- [**Impact of the US Reciprocal Tariffs on Emereging Economies: the case of BRICS**](https://david-chi-zhang.github.io/MReview/2025/04/03/RecTariff/)
    - [美国“国别关税”初探：以金砖国家为例](https://mp.weixin.qq.com/s/gt6xG9qXKkHthIP8DKpPIg)
  
 - **A First Take on China's 2025 Government Work Report** (in Chinese)
