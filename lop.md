@@ -114,8 +114,13 @@ This is a collection of his academic papers, discussion papers and articles. The
 
    
 
-## Academic Publications and Book Chapters
-- Bank Management, 8th Edition, authored by by Koch and MacDonald, translated by XIN Xing, CAO Guangyu, and ZHANG Chi （in Chinese）
+## Academic Publications, Book Chapters, and Thematic Reports
+-  **Analysis on the Policy Coordination under Multiple Macroeconomic Targets: Case Studies on China’s Property Market Development and the Debt Issues Associated with Local Government
+Infrastructure Investment** (an AI-translalted version can be accessed [here](https://github.com/david-chi-zhang/MReview/blob/d541703a2a2f8f2b6c39b7b9716c4c2b801b4258/_posts/pdf/201901_Chapter3English.pdf))
+   - This is the third chapter of "Research on Policy Coordination under Multiple Macroeconomic Targets", edited by Xiao, G. and Zhang, X., Report of the China Finance 40 Forum.
+   - [多元目标下政策协调的两个案例](https://github.com/david-chi-zhang/MReview/blob/d541703a2a2f8f2b6c39b7b9716c4c2b801b4258/_posts/pdf/201901_Chapter3Chinese.pdf)，多元目标下宏观经济政策研究课题 第三章，中国金融40人论坛报告
+
+- Bank Management, 8th Edition, authored by Koch and MacDonald, translated by XIN Xing, CAO Guangyu, and ZHANG Chi （in Chinese）, published by Peking University Press
    - [《银行管理：第8版》，科克、麦克唐纳著，辛星、曹光宇、张驰译，北京大学出版社，2023](https://www.pup.cn/bookDetail?name=%25E9%2593%25B6%25E8%25A1%258C%25E7%25AE%25A1%25E7%2590%2586%28%25E7%25AC%25AC8%25E7%2589%2588%29&id=a471b421aee94c158d4c06160f962e0d&0.28668126931973936)
 
 
