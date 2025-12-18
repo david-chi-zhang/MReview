@@ -39,7 +39,7 @@ This is a collection of his academic papers, discussion papers and articles. The
 
 
 ## Discussion Papers and Articles
-- A Quick Tour of the 15th Five-Year Plan Recommendations by the Communist Party of China: Comparison of the CPC Plenary Communiqués (2025 vs. 2020) (in Chinese)
+- A Quick Tour of the 15th Five-Year Plan Recommendations by the Communist Party of China: Comparison of the CPC Plenary Communiqués (2025 vs. 2020) (in Chinese, an AI-translated version can be accessed [here]((https://david-chi-zhang.github.io/MReview/2025/10/25/15FYP/))
    - [初读二十届四中全会公报的一些感悟](https://mp.weixin.qq.com/s/O7gJNV3fXi-WgRR-Z3eHLA)
      
 - [**Impact of the US Reciprocal Tariffs on Emereging Economies: the case of BRICS**](https://david-chi-zhang.github.io/MReview/2025/04/03/RecTariff/)
