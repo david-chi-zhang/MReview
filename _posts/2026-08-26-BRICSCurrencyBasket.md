@@ -12,8 +12,9 @@ tags:
 
 
 ---
- **Disclaimer:** This personal research note may contain errors and is provided for reference only.
-***Note**: This note is generated based on this [report deck](https://github.com/david-chi-zhang/MReview/blob/master/_posts/pdf/BRICSCurrencyBasket.pdf)*
+**Disclaimer:** This personal research note may contain errors and is provided for reference only.
+
+**Note:** This note is generated based on this [report deck](https://github.com/david-chi-zhang/MReview/blob/master/_posts/pdf/BRICSCurrencyBasket.pdf)
 --- 
 
 ## Contents
