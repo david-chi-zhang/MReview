@@ -55,19 +55,6 @@ According to the IMF's [Review of the Method of Valuation of the SDR](https://ww
 
 For currency \(i\), the adapted formula is:
 
-$$
-\omega_i = 0.5\left(\frac{X_i}{\sum_i X_i}\right)
-+ \frac{1}{6}\left(\frac{R_i}{\sum_i R_i}\right)
-+ \frac{1}{6}\left(\frac{FX_i}{\sum_i FX_i}\right)
-+ \frac{1}{6}\left(\frac{FA_i}{\sum_i FA_i}\right)
-$$
-
-where:
-
-- \(X_i\): exports of goods and services of the country issuing currency \(i\)
-- \(R_i\): official reserves held in currency \(i\)
-- \(FX_i\): foreign-exchange turnover denominated in currency \(i\)
-- \(FA_i\): international banking liabilities and international debt securities denominated in currency \(i\)
 
 ![SDR weight formula](https://david-chi-zhang.github.io/MReview/img/2026-08-26/sdr-weight-formula.png)
 
@@ -101,13 +88,7 @@ China has had the largest share of global exports among the BRICS-5 over the pas
 
 Adding imports changes the countries' relative weights only marginally: China's implied weight falls by about 2 percentage points and India's rises by a similar amount.
 
-| Country | Exports | Exports + imports |
-|---|---:|---:|
-| Brazil | 6.8% | 7.2% |
-| Russian Federation | 7.8% | 7.7% |
-| India | 14.7% | 16.4% |
-| China | 68.5% | 66.3% |
-| South Africa | 2.2% | 2.3% |
+
 
 ![Exports and implied trade weights](https://david-chi-zhang.github.io/MReview/img/2026-08-26/exports-trade-weights.png)
 
@@ -117,13 +98,7 @@ Foreign holdings are estimated by multiplying outstanding local-currency governm
 
 China overtook Brazil in 2018. At the end of 2025, foreign holdings were USD 621 billion for China, USD 209 billion for Brazil, USD 84 billion for South Africa, USD 23 billion for India, and USD 16 billion for Russia.
 
-| Currency | Implied weight |
-|---|---:|
-| BRL | 21.9% |
-| RUB | 2.4% |
-| INR | 1.7% |
-| CNY | 65.2% |
-| ZAR | 8.8% |
+
 
 ![Foreign ownership of local-currency government debt](https://david-chi-zhang.github.io/MReview/img/2026-08-26/foreign-government-debt.png)
 
@@ -131,13 +106,7 @@ China overtook Brazil in 2018. At the end of 2025, foreign holdings were USD 621
 
 The BIS Triennial Central Bank Survey provides a currency breakdown of global FX turnover. Among BRICS-5 currencies, CNY had the largest share in 2025 at 8.6%, followed by INR at 1.95%, BRL at 0.94%, ZAR at 0.86%, and RUB at 0.04%.
 
-| Currency | Implied weight |
-|---|---:|
-| BRL | 7.6% |
-| RUB | 0.3% |
-| INR | 15.7% |
-| CNY | 69.4% |
-| ZAR | 6.9% |
+
 
 ![Foreign-exchange turnover and implied weights](https://david-chi-zhang.github.io/MReview/img/2026-08-26/foreign-exchange-turnover.png)
 
@@ -147,13 +116,7 @@ Under the BIS definition, international debt comprises debt securities issued ou
 
 The corresponding global shares were 0.14% for BRL, 0.09% for ZAR, 0.06% for INR, and 0.02% for RUB.
 
-| Currency | Implied weight |
-|---|---:|
-| BRL | 11.1% |
-| RUB | 1.3% |
-| INR | 5.0% |
-| CNY | 75.2% |
-| ZAR | 7.5% |
+
 
 ![International debt and implied weights](https://david-chi-zhang.github.io/MReview/img/2026-08-26/international-debt.png)
 
@@ -163,13 +126,7 @@ At the end of Q1 2026, banks resident in China had USD 1.4 trillion equivalent i
 
 Russia stopped publishing the relevant data in 2022. For calculation purposes, the amount is held constant thereafter.
 
-| Country | Claims + liabilities | Liabilities only |
-|---|---:|---:|
-| Brazil | 1.3% | 0.6% |
-| China | 79.1% | 71.4% |
-| India | 11.9% | 19.0% |
-| Russia | 5.5% | 6.7% |
-| South Africa | 2.2% | 2.3% |
+
 
 ![Cross-border local-currency banking positions](https://david-chi-zhang.github.io/MReview/img/2026-08-26/cross-border-banking.png)
 
@@ -185,7 +142,6 @@ CNY has the strongest international presence across all measures, with implied w
 | CNY | 69.4% | 75.2% | 79.1% | 71.4% | 65.2% | 68.5% | 66.3% |
 | ZAR | 6.9% | 7.5% | 2.2% | 2.3% | 8.8% | 2.2% | 2.3% |
 
-![Summary of implied weights across variables](https://david-chi-zhang.github.io/MReview/img/2026-08-26/summary-implied-weights.png)
 
 ## 3. Weighting schemes
 
@@ -211,7 +167,6 @@ Basket 2 is slightly less concentrated and is used as the default in the subsequ
 | CNY | 46.3 |
 | ZAR | 7.0 |
 
-![Two weighting schemes](https://david-chi-zhang.github.io/MReview/img/2026-08-26/weighting-schemes.png)
 
 ## 4. Evaluating the basket
 
