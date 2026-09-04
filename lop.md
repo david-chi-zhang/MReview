@@ -39,6 +39,9 @@ This is a collection of his academic papers, discussion papers and articles. The
 
 
 ## Discussion Papers and Articles
+- [**Global Trade Imbalances over the Past 70 Years: A Closer Look through Penn Table Data**](https://david-chi-zhang.github.io/MReview/2026/09/04/GlobalImbalances/)
+   - [“三图一表”细问70余年来的“全球贸易失衡”问题](https://mp.weixin.qq.com/s/w7XqpHIbZJsmv1Sn8VkIvw) 
+
 - [**Formulating a BRICS-5 Currency Basket: An Experiment**](https://david-chi-zhang.github.io/MReview/2026/08/26/BRICSCurrencyBasket/)
    - [金砖五国货币篮子：指标、权重与特性](https://mp.weixin.qq.com/s/FhpfRJp0jDcoP5fr-ne-Yg)
 
