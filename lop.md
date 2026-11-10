@@ -39,6 +39,9 @@ This is a collection of his academic papers, discussion papers and articles. The
 
 
 ## Discussion Papers and Articles
+- [**Financial Connectivity among the BRICS-5: An Analysis Based on Foreign Bank Subsidiary and Branch Networks**](https://david-chi-zhang.github.io/MReview/2026/11/10/BankBranchesBRICS/)
+   - [金砖五国的金融联系：基于互设银行子、分行的分析](https://mp.weixin.qq.com/s/Ee-8ZioWg87cnvayvbe4Qg)   
+
 - [**Global Trade Imbalances over the Past 70 Years: A Closer Look through Penn Table Data**](https://david-chi-zhang.github.io/MReview/2026/09/04/GlobalImbalances/)
    - [“三图一表”细问70余年来的“全球贸易失衡”问题](https://mp.weixin.qq.com/s/w7XqpHIbZJsmv1Sn8VkIvw) 
 
